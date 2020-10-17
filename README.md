@@ -1,2 +1,2 @@
-# user_detail_backend
+# npm install & npm start
  
