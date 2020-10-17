@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "userId": "1",
+      "firstName": "Wittaya",
+      "lastName": "Kwantor",
+      "birthDate": "18/07/1996"
+    },
+    {
+      "userId": "2",
+      "firstName": "Wittaya",
+      "lastName": "Kwantor",
+      "birthDate": "18/07/1996"
+    },
+    {
+      "userId": "3",
+      "firstName": "Wittaya",
+      "lastName": "Kwantor",
+      "birthDate": "18/07/1996"
+    }
+  ]
+}
